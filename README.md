@@ -110,7 +110,7 @@ The neural network when trained over 30 epochs has the following outputs -
 - Run `python3 neuralnetwork.py` in the terminal
 
 
-## Example Output 
+## 9. Example Output 
 
 - Let the columns be 0 indexed
 - Consider row 98 : `[1, 1, 1, 0, 0, 0, 1, 1]`
