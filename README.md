@@ -108,3 +108,12 @@ The neural network when trained over 30 epochs has the following outputs -
 - Ensure python is installed
 - Install all necessary packages
 - Run `python3 neuralnetwork.py` in the terminal
+
+
+## Example Output 
+
+- Let the columns be 0 indexed
+- Consider row 98 : `[1, 1, 1, 0, 0, 0, 1, 1]`
+- Reconstructed row 98 : `[0.62841946, 0.3495212,  0.57400507, 0.67165595, 0.8300915,  0.3375816, 0.40318963, 0.5192877,  0.45859647]`
+- Errors per column : `[0.37158054, 0.65047884, 0.42599493, 0.32834405, 0.8300915,  0.3375816, 0.40318963, 0.4807123,  0.54140353]`
+- Max error at column 4
