@@ -58,7 +58,7 @@ We follow a 9-6-3-6-9 archietecture here.
 
 - We have used an Autoencoder model, which is a type of artificial neural network. It works in 2 phases - Encoding and Decoding. 
 
-- As neural networks work on data with high dimensionality, we use encoders that basically compress the input into a layer with 6 neurons. This gives us the secodn layer.
+- As neural networks work on data with high dimensionality, we use encoders that basically compress the input into a layer with 6 neurons. This gives us the second layer.
 
 - The encoder works one more time and compresses the input via three neurons, this is the second hidden layer. 
  
