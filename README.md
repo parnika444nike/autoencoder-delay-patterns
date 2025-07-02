@@ -52,7 +52,7 @@ With thousands of customers orders generated on a daily basis, tracking delays a
 ## 4. How It Works
 We follow a 9-6-3-6-9 archietecture here. 
 
-**[REFER ARCHIETECURE DIAGRAM IN REPO]**
+![Image](https://github.com/user-attachments/assets/7675c478-edec-4d16-806b-7525d29f4d31)
 
 - The neural network recieves 9 inputs (0 or 1). This establishes our first input layer of nine neurons. 
 
