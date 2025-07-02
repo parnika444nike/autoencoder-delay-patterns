@@ -82,7 +82,9 @@ The neural network when trained over 30 epochs has the following outputs -
 - The neural network is able to identify which columns (0 indexed) the maximum anomaly/error is being detected. 
 - Based on these insights we can plot various graphs. 
 
-**E.g -** A graph of MSE against the number of rows can be plotted to identify how much significant deviation occurs in the dataset. **[REFER OUTPUT EXAMPLE GRAPH IN REPO]**
+**E.g -** A graph of MSE against the number of rows can be plotted to identify how much significant deviation occurs in the dataset. 
+
+![Image](https://github.com/user-attachments/assets/cb2c03f4-b467-4398-8a30-70e662be9eff)
 
 
 ## 6. Future Improvements
